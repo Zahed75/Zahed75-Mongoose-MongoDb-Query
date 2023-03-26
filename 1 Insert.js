@@ -1,0 +1,8 @@
+db.getCollection("CollectionName").insert({})
+
+
+
+
+
+
+
